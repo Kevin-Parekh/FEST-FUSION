@@ -1,0 +1,6 @@
+{
+  "name": "Fest Fusion",
+  "description": "Where Ideas Come Alive - College Tech Fest",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
